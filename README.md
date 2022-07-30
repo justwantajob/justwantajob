@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Gurur, a Full-Time Full-Stack Web Development Learner</div>  
+## <div align="center">I'm Gurur, a Full-Time Full-Stack Web Development Learner</div>  
 <br>
 
-- ## 🔭 I’m currently working on <b>Javascript</b>  
+- ### 🔭 I’m currently working on <b>Javascript</b>  
   
 
-- ## 🌱 I’m currently learning <b>Front-End Development</b>  
+- ### 🌱 I’m currently learning <b>Front-End Development</b>  
   
 
-- ## ❓ Ask me about <b>anything</b>  
+- ### ❓ Ask me about <b>anything</b>  
   
 
-- ## ⚡ Fun fact: <b>My life</b>  
+- ### ⚡ Fun fact: <b>My life</b>  
   
 
 <br/>  
